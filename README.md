@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 23, 2019
 
 ### Student Name:  
-(First and Last Name)
+Andrea Garcia
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this asssignment, we utilized elements to create nodes in order to allow the user to view the images easier and smoother.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://andiegarcia.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to add a feature to the photo gallery that would allow users to option to add two additional inages to the screen.
+2. I learned how to streamline the navigation of the photo gallery.
+3. I learned how to create and attach a node to create either parent or child nodes and form a DOM tree.
